@@ -1,0 +1,30 @@
+label{
+    font-size: 20px;
+}
+input{
+    margin-bottom:20px;
+    
+}
+.create{
+    border-style: solid;
+    border-width: 2px ;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.addcard{
+    width: 400px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#updateinput{
+    width:100px;
+    height: 15px;
+    margin-bottom: 10px;
+}
